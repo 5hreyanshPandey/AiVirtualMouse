@@ -1,4 +1,4 @@
-<p><h1># AiVirtualMouse</h1></p>
+<p><h1># VirtualMouse</h1></p>
 <p>To create an alternative input method for controlling a computer, typically without the need for a physical mouse or other pointing devices.</p>
 <p><h1>The Steps Includes</h1></p>
 <p>Opening Video Camera</p>
